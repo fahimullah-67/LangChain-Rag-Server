@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymongo
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+python-dotenv
+langchain-google-genai
+
+# run server
+# uvicorn app:app --reload --port 8001
